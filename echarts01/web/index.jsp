@@ -4,6 +4,8 @@
 <head>
   <title>$Title$</title>
   <script src="js/echarts.min.js" type="text/javascript"></script>
+  <script src="js/china.js" type="text/javascript"></script>
+  <script src="js/bmap.js" type="text/javascript"></script>
   <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=tTpV96swvp95Z4xcXHwsZN9eO2EBeDOv">
 
   </script>
