@@ -70,5 +70,6 @@
 <button onclick="f2()">地图</button>
 <button onclick="f3()">定位</button>
 <button onclick="f4()">搜索</button>
+<button></button>
 </body>
 </html>
